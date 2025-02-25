@@ -20,3 +20,8 @@ Our matching function is a weighted sum of:
 
 
 To learn the weights of our scoring funciton, we performed logistic regression using co-founder data we put aside for testing, we labeled the data with binary labels, indicating success with 1, if their Google News success score was above the median of scores, and 0 otherwise.
+
+More in our poster:
+
+![LinkedUp Poster](LinkedUp-Poster.png)
+
