@@ -1,3 +1,6 @@
+
+<img src="https://github.com/user-attachments/assets/797d7d4f-ea00-4798-a5fd-a41297104cfa" alt="LinkedUp Logo" width="300"/>
+
 # LinkedUp - Your Next Co-Founder is One Swipe Away
 
 Finding the right co-founder or job opportunity can be time-consuming and frustrating. Launching your startup ideas is even tougher when you're doing it alone.
